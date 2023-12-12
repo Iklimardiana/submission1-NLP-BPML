@@ -8,7 +8,7 @@ Original file is located at
 
 Nama : Iklima Mardiana
 
-Dataset : https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
+Dataset : https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 """
 
 # dataframe
